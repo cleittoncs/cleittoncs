@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/devemdocleittoncsbro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdocleittoncsbro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemcleittoncsdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/cleittoncs">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleittoncs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleittoncs&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devecleittoncsmdobro/devemcleittoncsdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cleittoncs/cleittoncs/blob/output/github-contribution-grid-snake.svg)
 
 </div>
